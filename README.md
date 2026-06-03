@@ -5,6 +5,7 @@ OBJETOS INTELIGENTES CONECTADOS - Análise e Desenvolvimento de Sistemas - 2026
 https://youtu.be/wDp0C1E_Tf4 
 No vídeo são apresentados o funcionamento do protótipo, a lógica implementada no software, a comunicação via protocolo MQTT e os resultados obtidos durante os testes realizados.
 
+# Codigo fonte esta no arquivo anexado: Firmware.zip
 
 # Sistema Inteligente de Alerta de Enchentes
 
