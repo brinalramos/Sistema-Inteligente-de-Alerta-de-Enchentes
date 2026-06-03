@@ -1,6 +1,11 @@
 # Sistema-Inteligente-de-Alerta-de-Enchentes
 OBJETOS INTELIGENTES CONECTADOS - Análise e Desenvolvimento de Sistemas - 2026
 
+# Vídeo-Demonstração:
+https://youtu.be/wDp0C1E_Tf4 
+No vídeo são apresentados o funcionamento do protótipo, a lógica implementada no software, a comunicação via protocolo MQTT e os resultados obtidos durante os testes realizados.
+
+
 # Sistema Inteligente de Alerta de Enchentes
 
 Este projeto foi desenvolvido para a disciplina de Objetos Inteligentes Conectados e tem como objetivo monitorar o nível da água em áreas com risco de enchentes utilizando conceitos de Internet das Coisas (IoT).
