@@ -3,7 +3,7 @@ OBJETOS INTELIGENTES CONECTADOS - Análise e Desenvolvimento de Sistemas - 2026
 
 # Vídeo-Demonstração:
 https://youtu.be/X0L3fjmqYi4
-06:11 – Demonstação nova da simulação do Sistema.
+- 06:11 – Demonstação nova da simulação do Sistema.
 
 * No vídeo são apresentados o funcionamento do protótipo, a lógica implementada no software, a comunicação via protocolo MQTT e os resultados obtidos durante os testes realizados.
 
